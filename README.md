@@ -22,6 +22,7 @@ RoastForge is a **multi-node agentic AI system** built with LangGraph that takes
 
 ## 🏗️ Architecture
 
+<img width="682" height="554" alt="Workflow" src="https://github.com/user-attachments/assets/fc7c51f0-9816-4577-8cd8-d96fa77e59da" />
 
 
 **Key design decisions:**
